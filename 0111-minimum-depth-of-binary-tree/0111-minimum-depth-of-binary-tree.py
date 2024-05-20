@@ -8,8 +8,8 @@ class Solution:
     def minDepth(self, root: Optional[TreeNode]) -> int:
         if root == None:
             return 0
-        lval = self.minDepth(root.left) + 1
-        rval = self.minDepth(root.right) + 1
-        if lval == 1: return rval
-        if rval == 1: return lval
-        return min(lval,rval)
+        lval = self.minDepth(root.left) 
+        rval = self.minDepth(root.right) 
+        if (lval == 0 or rval == 0): return max(lval,rval)  + 1
+
+        return min(lval,rval) + 1
