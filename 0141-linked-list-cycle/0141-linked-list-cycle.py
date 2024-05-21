@@ -14,8 +14,5 @@ class Solution:
         
         if not head:
             return False
-        
         return recurse(head,head.next)
             
-        
-        
