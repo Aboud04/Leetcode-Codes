@@ -7,7 +7,7 @@
 class Solution:
     def getIntersectionNode(self, headA: ListNode, headB: ListNode) -> Optional[ListNode]:
         
-        arr = []
+        arr = set()
         def createCopy(listNode):
             if not listNode:
                 return None
@@ -19,7 +19,7 @@ class Solution:
             while original_ptr:
                 if original_ptr in arr:
                     return original_ptr
-                arr.append(original_ptr)
+                arr.add(original_ptr)
                 original_ptr = original_ptr.next
                 if original_ptr:
                     cpy_ptr.next = ListNode(original_ptr.val)
