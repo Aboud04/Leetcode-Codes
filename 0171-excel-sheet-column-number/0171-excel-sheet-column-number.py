@@ -1,12 +1,11 @@
 class Solution:
     def titleToNumber(self, columnTitle: str) -> int:
         
-        columnTitle = columnTitle[::-1]
         val = 0
-        for i in range(len(columnTitle)):
-            val += (1+(ord(columnTitle[i]) -65)) *(26**i)
+        for i in range(len(columnTitle)-1,-1,-1):
+            print(columnTitle[i])
+            val += (1+(ord(columnTitle[i]) -65)) *(26**(len(columnTitle)-1-i))
             
         return val
-            
             
             
