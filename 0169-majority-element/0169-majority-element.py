@@ -16,39 +16,26 @@ class Solution:
         
         
         
-        for i in range(1,len(nums)):
+        for i in range(1, len(nums)):
             currNum = nums[i]
             if prevNum == currNum:
-                currFreq +=1
+                currFreq += 1
             else:
                 currFreq = 1
-            prevNum = currNum
-            
+                prevNum = currNum
+
             if potentialMaxBool and currNum == potentialMaxNum:
-                prevMaxFreq = maxFreq
-                prevMaxNum = maxNum
-                maxNum = potentialMaxNum
-                potentialMaxBool = False
-
+                prevMaxFreq, prevMaxNum, maxNum, potentialMaxBool = maxFreq, maxNum, potentialMaxNum, False
             elif currFreq == maxFreq:
-                potentialMaxNum = currNum
-                potentialMaxBool = True
-            
-
+                potentialMaxNum, potentialMaxBool = currNum, True
 
             if prevMaxNum and prevMaxNum == currNum and prevMaxFreq + currFreq > maxFreq:
-                prevMaxNum = maxNum
-                prevMaxFreq = maxFreq
-                maxNum = currNum
-                maxFreq = currFreq
-            if maxFreq < currFreq and maxNum != currNum:
-                prevMaxFreq = maxFreq
-                prevMaxNum = maxNum
-                maxFreq = currFreq
-                maxNum = currNum
+                prevMaxNum, prevMaxFreq, maxNum, maxFreq = maxNum, maxFreq, currNum, currFreq
+            elif maxFreq < currFreq and maxNum != currNum:
+                prevMaxFreq, prevMaxNum, maxFreq, maxNum = maxFreq, maxNum, currFreq, currNum
             elif maxNum == currNum:
                 maxFreq += 1
-            
+
         return maxNum
 
      
