@@ -26,4 +26,12 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aboud04/Leetcode-Codes/tree/master/0003-longest-substring-without-repeating-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/Aboud04/Leetcode-Codes/tree/master/0338-counting-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/Aboud04/Leetcode-Codes/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
