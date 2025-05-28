@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aboud04/Leetcode-Codes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Aboud04/Leetcode-Codes/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aboud04/Leetcode-Codes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Aboud04/Leetcode-Codes/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -38,5 +40,6 @@
 ## Array
 |  |
 | ------- |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Aboud04/Leetcode-Codes/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3183-find-the-k-or-of-an-array](https://github.com/Aboud04/Leetcode-Codes/tree/master/3183-find-the-k-or-of-an-array) |
 <!---LeetCode Topics End-->
