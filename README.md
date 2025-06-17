@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aboud04/Leetcode-Codes/tree/master/0002-add-two-numbers) |
+| [0203-remove-linked-list-elements](https://github.com/Aboud04/Leetcode-Codes/tree/master/0203-remove-linked-list-elements) |
 ## Math
 |  |
 | ------- |
@@ -14,6 +15,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aboud04/Leetcode-Codes/tree/master/0002-add-two-numbers) |
+| [0203-remove-linked-list-elements](https://github.com/Aboud04/Leetcode-Codes/tree/master/0203-remove-linked-list-elements) |
 ## Hash Table
 |  |
 | ------- |
