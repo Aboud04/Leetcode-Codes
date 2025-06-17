@@ -26,6 +26,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aboud04/Leetcode-Codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Aboud04/Leetcode-Codes/tree/master/0020-valid-parentheses) |
 | [0290-word-pattern](https://github.com/Aboud04/Leetcode-Codes/tree/master/0290-word-pattern) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/Aboud04/Leetcode-Codes/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
