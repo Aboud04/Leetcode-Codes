@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aboud04/Leetcode-Codes/tree/master/0002-add-two-numbers) |
+| [2481-strictly-palindromic-number](https://github.com/Aboud04/Leetcode-Codes/tree/master/2481-strictly-palindromic-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Aboud04/Leetcode-Codes/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
@@ -73,4 +74,12 @@
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Aboud04/Leetcode-Codes/tree/master/2299-merge-nodes-in-between-zeros) |
+## Two Pointers
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/Aboud04/Leetcode-Codes/tree/master/2481-strictly-palindromic-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/Aboud04/Leetcode-Codes/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
