@@ -7,6 +7,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aboud04/Leetcode-Codes/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/Aboud04/Leetcode-Codes/tree/master/0203-remove-linked-list-elements) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Aboud04/Leetcode-Codes/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Aboud04/Leetcode-Codes/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Math
 |  |
@@ -68,4 +69,8 @@
 |  |
 | ------- |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Aboud04/Leetcode-Codes/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+## Simulation
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Aboud04/Leetcode-Codes/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
