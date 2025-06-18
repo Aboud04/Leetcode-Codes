@@ -30,6 +30,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aboud04/Leetcode-Codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Aboud04/Leetcode-Codes/tree/master/0020-valid-parentheses) |
 | [0290-word-pattern](https://github.com/Aboud04/Leetcode-Codes/tree/master/0290-word-pattern) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Aboud04/Leetcode-Codes/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Aboud04/Leetcode-Codes/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2723-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/Aboud04/Leetcode-Codes/tree/master/2723-find-the-longest-balanced-substring-of-a-binary-string) |
 ## Sliding Window
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Aboud04/Leetcode-Codes/tree/master/0118-pascals-triangle) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Aboud04/Leetcode-Codes/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Aboud04/Leetcode-Codes/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Aboud04/Leetcode-Codes/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3183-find-the-k-or-of-an-array](https://github.com/Aboud04/Leetcode-Codes/tree/master/3183-find-the-k-or-of-an-array) |
@@ -62,4 +64,8 @@
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Aboud04/Leetcode-Codes/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Aboud04/Leetcode-Codes/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 <!---LeetCode Topics End-->
