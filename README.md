@@ -57,6 +57,7 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/Aboud04/Leetcode-Codes/tree/master/0118-pascals-triangle) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Aboud04/Leetcode-Codes/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2048-build-array-from-permutation](https://github.com/Aboud04/Leetcode-Codes/tree/master/2048-build-array-from-permutation) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Aboud04/Leetcode-Codes/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Aboud04/Leetcode-Codes/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3183-find-the-k-or-of-an-array](https://github.com/Aboud04/Leetcode-Codes/tree/master/3183-find-the-k-or-of-an-array) |
@@ -75,6 +76,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2048-build-array-from-permutation](https://github.com/Aboud04/Leetcode-Codes/tree/master/2048-build-array-from-permutation) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Aboud04/Leetcode-Codes/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Two Pointers
 |  |
