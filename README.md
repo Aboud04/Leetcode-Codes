@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aboud04/Leetcode-Codes/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Aboud04/Leetcode-Codes/tree/master/0007-reverse-integer) |
 | [2481-strictly-palindromic-number](https://github.com/Aboud04/Leetcode-Codes/tree/master/2481-strictly-palindromic-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Aboud04/Leetcode-Codes/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Aboud04/Leetcode-Codes/tree/master/3172-divisible-and-non-divisible-sums-difference) |
