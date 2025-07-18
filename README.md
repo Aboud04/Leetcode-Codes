@@ -7,6 +7,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aboud04/Leetcode-Codes/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/Aboud04/Leetcode-Codes/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Aboud04/Leetcode-Codes/tree/master/0206-reverse-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Aboud04/Leetcode-Codes/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Aboud04/Leetcode-Codes/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Math
@@ -22,6 +23,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aboud04/Leetcode-Codes/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/Aboud04/Leetcode-Codes/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Aboud04/Leetcode-Codes/tree/master/0206-reverse-linked-list) |
 ## Hash Table
 |  |
 | ------- |
