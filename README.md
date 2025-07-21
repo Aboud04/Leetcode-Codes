@@ -91,4 +91,24 @@
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/Aboud04/Leetcode-Codes/tree/master/2481-strictly-palindromic-number) |
+## Tree
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Aboud04/Leetcode-Codes/tree/master/0572-subtree-of-another-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Aboud04/Leetcode-Codes/tree/master/0572-subtree-of-another-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Aboud04/Leetcode-Codes/tree/master/0572-subtree-of-another-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Aboud04/Leetcode-Codes/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Aboud04/Leetcode-Codes/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
