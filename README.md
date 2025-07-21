@@ -60,6 +60,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Aboud04/Leetcode-Codes/tree/master/0118-pascals-triangle) |
+| [0792-binary-search](https://github.com/Aboud04/Leetcode-Codes/tree/master/0792-binary-search) |
 | [1839-decode-xored-array](https://github.com/Aboud04/Leetcode-Codes/tree/master/1839-decode-xored-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Aboud04/Leetcode-Codes/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2048-build-array-from-permutation](https://github.com/Aboud04/Leetcode-Codes/tree/master/2048-build-array-from-permutation) |
@@ -111,4 +112,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Aboud04/Leetcode-Codes/tree/master/0572-subtree-of-another-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/Aboud04/Leetcode-Codes/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
