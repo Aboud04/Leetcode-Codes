@@ -30,6 +30,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aboud04/Leetcode-Codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0290-word-pattern](https://github.com/Aboud04/Leetcode-Codes/tree/master/0290-word-pattern) |
 | [0940-fruit-into-baskets](https://github.com/Aboud04/Leetcode-Codes/tree/master/0940-fruit-into-baskets) |
+| [2476-check-distances-between-same-letters](https://github.com/Aboud04/Leetcode-Codes/tree/master/2476-check-distances-between-same-letters) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Aboud04/Leetcode-Codes/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## String
 |  |
@@ -39,6 +40,7 @@
 | [0290-word-pattern](https://github.com/Aboud04/Leetcode-Codes/tree/master/0290-word-pattern) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Aboud04/Leetcode-Codes/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Aboud04/Leetcode-Codes/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2476-check-distances-between-same-letters](https://github.com/Aboud04/Leetcode-Codes/tree/master/2476-check-distances-between-same-letters) |
 | [2723-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/Aboud04/Leetcode-Codes/tree/master/2723-find-the-longest-balanced-substring-of-a-binary-string) |
 | [3379-score-of-a-string](https://github.com/Aboud04/Leetcode-Codes/tree/master/3379-score-of-a-string) |
 ## Sliding Window
@@ -68,6 +70,7 @@
 | [1839-decode-xored-array](https://github.com/Aboud04/Leetcode-Codes/tree/master/1839-decode-xored-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Aboud04/Leetcode-Codes/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2048-build-array-from-permutation](https://github.com/Aboud04/Leetcode-Codes/tree/master/2048-build-array-from-permutation) |
+| [2476-check-distances-between-same-letters](https://github.com/Aboud04/Leetcode-Codes/tree/master/2476-check-distances-between-same-letters) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Aboud04/Leetcode-Codes/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Aboud04/Leetcode-Codes/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3183-find-the-k-or-of-an-array](https://github.com/Aboud04/Leetcode-Codes/tree/master/3183-find-the-k-or-of-an-array) |
