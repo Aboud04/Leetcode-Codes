@@ -29,6 +29,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aboud04/Leetcode-Codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0290-word-pattern](https://github.com/Aboud04/Leetcode-Codes/tree/master/0290-word-pattern) |
+| [0567-permutation-in-string](https://github.com/Aboud04/Leetcode-Codes/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/Aboud04/Leetcode-Codes/tree/master/0940-fruit-into-baskets) |
 | [2476-check-distances-between-same-letters](https://github.com/Aboud04/Leetcode-Codes/tree/master/2476-check-distances-between-same-letters) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Aboud04/Leetcode-Codes/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -38,6 +39,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aboud04/Leetcode-Codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Aboud04/Leetcode-Codes/tree/master/0020-valid-parentheses) |
 | [0290-word-pattern](https://github.com/Aboud04/Leetcode-Codes/tree/master/0290-word-pattern) |
+| [0567-permutation-in-string](https://github.com/Aboud04/Leetcode-Codes/tree/master/0567-permutation-in-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Aboud04/Leetcode-Codes/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Aboud04/Leetcode-Codes/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2476-check-distances-between-same-letters](https://github.com/Aboud04/Leetcode-Codes/tree/master/2476-check-distances-between-same-letters) |
@@ -47,6 +49,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aboud04/Leetcode-Codes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/Aboud04/Leetcode-Codes/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/Aboud04/Leetcode-Codes/tree/master/0940-fruit-into-baskets) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Aboud04/Leetcode-Codes/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Dynamic Programming
@@ -94,6 +97,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/Aboud04/Leetcode-Codes/tree/master/0567-permutation-in-string) |
 | [2481-strictly-palindromic-number](https://github.com/Aboud04/Leetcode-Codes/tree/master/2481-strictly-palindromic-number) |
 ## Brainteaser
 |  |
