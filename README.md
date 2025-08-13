@@ -19,6 +19,7 @@
 | [2481-strictly-palindromic-number](https://github.com/Aboud04/Leetcode-Codes/tree/master/2481-strictly-palindromic-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Aboud04/Leetcode-Codes/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Aboud04/Leetcode-Codes/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3192-maximum-xor-product](https://github.com/Aboud04/Leetcode-Codes/tree/master/3192-maximum-xor-product) |
 ## Recursion
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | [0338-counting-bits](https://github.com/Aboud04/Leetcode-Codes/tree/master/0338-counting-bits) |
 | [1839-decode-xored-array](https://github.com/Aboud04/Leetcode-Codes/tree/master/1839-decode-xored-array) |
 | [3183-find-the-k-or-of-an-array](https://github.com/Aboud04/Leetcode-Codes/tree/master/3183-find-the-k-or-of-an-array) |
+| [3192-maximum-xor-product](https://github.com/Aboud04/Leetcode-Codes/tree/master/3192-maximum-xor-product) |
 ## Array
 |  |
 | ------- |
@@ -133,4 +135,8 @@
 |  |
 | ------- |
 | [1127-last-stone-weight](https://github.com/Aboud04/Leetcode-Codes/tree/master/1127-last-stone-weight) |
+## Greedy
+|  |
+| ------- |
+| [3192-maximum-xor-product](https://github.com/Aboud04/Leetcode-Codes/tree/master/3192-maximum-xor-product) |
 <!---LeetCode Topics End-->
