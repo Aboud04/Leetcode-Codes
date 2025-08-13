@@ -1,7 +1,7 @@
 class Solution:
     def maximumXorProduct(self, a: int, b: int, n: int) -> int:
         x = 0
-        for i in reversed(range(n)):  
+        for i in range(n-1,-1,-1):  
             a_bit = (a >> i) & 1
             b_bit = (b >> i) & 1
             
