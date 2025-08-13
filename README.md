@@ -15,6 +15,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aboud04/Leetcode-Codes/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Aboud04/Leetcode-Codes/tree/master/0007-reverse-integer) |
+| [0326-power-of-three](https://github.com/Aboud04/Leetcode-Codes/tree/master/0326-power-of-three) |
 | [2481-strictly-palindromic-number](https://github.com/Aboud04/Leetcode-Codes/tree/master/2481-strictly-palindromic-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Aboud04/Leetcode-Codes/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Aboud04/Leetcode-Codes/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -24,6 +25,7 @@
 | [0002-add-two-numbers](https://github.com/Aboud04/Leetcode-Codes/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/Aboud04/Leetcode-Codes/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Aboud04/Leetcode-Codes/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/Aboud04/Leetcode-Codes/tree/master/0326-power-of-three) |
 ## Hash Table
 |  |
 | ------- |
