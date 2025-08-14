@@ -71,6 +71,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Aboud04/Leetcode-Codes/tree/master/0118-pascals-triangle) |
+| [0228-summary-ranges](https://github.com/Aboud04/Leetcode-Codes/tree/master/0228-summary-ranges) |
 | [0792-binary-search](https://github.com/Aboud04/Leetcode-Codes/tree/master/0792-binary-search) |
 | [0940-fruit-into-baskets](https://github.com/Aboud04/Leetcode-Codes/tree/master/0940-fruit-into-baskets) |
 | [1127-last-stone-weight](https://github.com/Aboud04/Leetcode-Codes/tree/master/1127-last-stone-weight) |
