@@ -85,6 +85,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aboud04/Leetcode-Codes/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/Aboud04/Leetcode-Codes/tree/master/0225-implement-stack-using-queues) |
 ## Number Theory
 |  |
 | ------- |
@@ -139,4 +140,12 @@
 |  |
 | ------- |
 | [3192-maximum-xor-product](https://github.com/Aboud04/Leetcode-Codes/tree/master/3192-maximum-xor-product) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Aboud04/Leetcode-Codes/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Aboud04/Leetcode-Codes/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
