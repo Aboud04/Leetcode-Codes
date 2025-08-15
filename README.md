@@ -16,6 +16,7 @@
 | [0002-add-two-numbers](https://github.com/Aboud04/Leetcode-Codes/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Aboud04/Leetcode-Codes/tree/master/0007-reverse-integer) |
 | [0326-power-of-three](https://github.com/Aboud04/Leetcode-Codes/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Aboud04/Leetcode-Codes/tree/master/0342-power-of-four) |
 | [2481-strictly-palindromic-number](https://github.com/Aboud04/Leetcode-Codes/tree/master/2481-strictly-palindromic-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Aboud04/Leetcode-Codes/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Aboud04/Leetcode-Codes/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -27,6 +28,7 @@
 | [0203-remove-linked-list-elements](https://github.com/Aboud04/Leetcode-Codes/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Aboud04/Leetcode-Codes/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/Aboud04/Leetcode-Codes/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Aboud04/Leetcode-Codes/tree/master/0342-power-of-four) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +66,7 @@
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Aboud04/Leetcode-Codes/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/Aboud04/Leetcode-Codes/tree/master/0342-power-of-four) |
 | [1839-decode-xored-array](https://github.com/Aboud04/Leetcode-Codes/tree/master/1839-decode-xored-array) |
 | [3183-find-the-k-or-of-an-array](https://github.com/Aboud04/Leetcode-Codes/tree/master/3183-find-the-k-or-of-an-array) |
 | [3192-maximum-xor-product](https://github.com/Aboud04/Leetcode-Codes/tree/master/3192-maximum-xor-product) |
