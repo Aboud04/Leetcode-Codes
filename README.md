@@ -17,6 +17,7 @@
 | [0007-reverse-integer](https://github.com/Aboud04/Leetcode-Codes/tree/master/0007-reverse-integer) |
 | [0326-power-of-three](https://github.com/Aboud04/Leetcode-Codes/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Aboud04/Leetcode-Codes/tree/master/0342-power-of-four) |
+| [1448-maximum-69-number](https://github.com/Aboud04/Leetcode-Codes/tree/master/1448-maximum-69-number) |
 | [2481-strictly-palindromic-number](https://github.com/Aboud04/Leetcode-Codes/tree/master/2481-strictly-palindromic-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Aboud04/Leetcode-Codes/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Aboud04/Leetcode-Codes/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -144,6 +145,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1448-maximum-69-number](https://github.com/Aboud04/Leetcode-Codes/tree/master/1448-maximum-69-number) |
 | [3192-maximum-xor-product](https://github.com/Aboud04/Leetcode-Codes/tree/master/3192-maximum-xor-product) |
 ## Design
 |  |
