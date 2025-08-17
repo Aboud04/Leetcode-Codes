@@ -37,6 +37,7 @@
 | [0290-word-pattern](https://github.com/Aboud04/Leetcode-Codes/tree/master/0290-word-pattern) |
 | [0567-permutation-in-string](https://github.com/Aboud04/Leetcode-Codes/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/Aboud04/Leetcode-Codes/tree/master/0940-fruit-into-baskets) |
+| [1256-rank-transform-of-an-array](https://github.com/Aboud04/Leetcode-Codes/tree/master/1256-rank-transform-of-an-array) |
 | [2476-check-distances-between-same-letters](https://github.com/Aboud04/Leetcode-Codes/tree/master/2476-check-distances-between-same-letters) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Aboud04/Leetcode-Codes/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## String
@@ -79,6 +80,7 @@
 | [0792-binary-search](https://github.com/Aboud04/Leetcode-Codes/tree/master/0792-binary-search) |
 | [0940-fruit-into-baskets](https://github.com/Aboud04/Leetcode-Codes/tree/master/0940-fruit-into-baskets) |
 | [1127-last-stone-weight](https://github.com/Aboud04/Leetcode-Codes/tree/master/1127-last-stone-weight) |
+| [1256-rank-transform-of-an-array](https://github.com/Aboud04/Leetcode-Codes/tree/master/1256-rank-transform-of-an-array) |
 | [1839-decode-xored-array](https://github.com/Aboud04/Leetcode-Codes/tree/master/1839-decode-xored-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Aboud04/Leetcode-Codes/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2048-build-array-from-permutation](https://github.com/Aboud04/Leetcode-Codes/tree/master/2048-build-array-from-permutation) |
@@ -157,4 +159,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Aboud04/Leetcode-Codes/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Aboud04/Leetcode-Codes/tree/master/0232-implement-queue-using-stacks) |
+## Sorting
+|  |
+| ------- |
+| [1256-rank-transform-of-an-array](https://github.com/Aboud04/Leetcode-Codes/tree/master/1256-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
