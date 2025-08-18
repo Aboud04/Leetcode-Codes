@@ -120,6 +120,7 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Aboud04/Leetcode-Codes/tree/master/0572-subtree-of-another-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/Aboud04/Leetcode-Codes/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -132,6 +133,7 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Aboud04/Leetcode-Codes/tree/master/0572-subtree-of-another-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/Aboud04/Leetcode-Codes/tree/master/2384-root-equals-sum-of-children) |
 ## Hash Function
 |  |
 | ------- |
