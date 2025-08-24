@@ -38,6 +38,7 @@
 | [0567-permutation-in-string](https://github.com/Aboud04/Leetcode-Codes/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/Aboud04/Leetcode-Codes/tree/master/0940-fruit-into-baskets) |
 | [1256-rank-transform-of-an-array](https://github.com/Aboud04/Leetcode-Codes/tree/master/1256-rank-transform-of-an-array) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aboud04/Leetcode-Codes/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2476-check-distances-between-same-letters](https://github.com/Aboud04/Leetcode-Codes/tree/master/2476-check-distances-between-same-letters) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Aboud04/Leetcode-Codes/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## String
@@ -86,6 +87,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Aboud04/Leetcode-Codes/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2048-build-array-from-permutation](https://github.com/Aboud04/Leetcode-Codes/tree/master/2048-build-array-from-permutation) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Aboud04/Leetcode-Codes/tree/master/2398-check-if-matrix-is-x-matrix) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aboud04/Leetcode-Codes/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2476-check-distances-between-same-letters](https://github.com/Aboud04/Leetcode-Codes/tree/master/2476-check-distances-between-same-letters) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Aboud04/Leetcode-Codes/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Aboud04/Leetcode-Codes/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -110,6 +112,7 @@
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/Aboud04/Leetcode-Codes/tree/master/2048-build-array-from-permutation) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Aboud04/Leetcode-Codes/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aboud04/Leetcode-Codes/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Two Pointers
 |  |
 | ------- |
@@ -149,10 +152,12 @@
 |  |
 | ------- |
 | [1127-last-stone-weight](https://github.com/Aboud04/Leetcode-Codes/tree/master/1127-last-stone-weight) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aboud04/Leetcode-Codes/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Greedy
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/Aboud04/Leetcode-Codes/tree/master/1448-maximum-69-number) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aboud04/Leetcode-Codes/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3192-maximum-xor-product](https://github.com/Aboud04/Leetcode-Codes/tree/master/3192-maximum-xor-product) |
 ## Design
 |  |
@@ -168,6 +173,7 @@
 |  |
 | ------- |
 | [1256-rank-transform-of-an-array](https://github.com/Aboud04/Leetcode-Codes/tree/master/1256-rank-transform-of-an-array) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aboud04/Leetcode-Codes/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Matrix
 |  |
 | ------- |
